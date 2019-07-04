@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DrCode
+</name>
+</assembly>
+<members>
+<member name="T:DrCode.My.Resources.Resources">
+<summary>
+  지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+</summary>
+</member>
+<member name="P:DrCode.My.Resources.Resources.ResourceManager">
+<summary>
+  이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+</summary>
+</member>
+<member name="P:DrCode.My.Resources.Resources.Culture">
+<summary>
+  이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대해 현재 스레드의 CurrentUICulture 속성을
+  재정의합니다.
+</summary>
+</member>
+<member name="P:DrCode.My.Resources.Resources.settings">
+<summary>
+  &lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;Settings version=&quot;1&quot;&gt;
+	&lt;setting key=&quot;Graphics.MonitorRectangle&quot;&gt;0,0,1920,983&lt;/setting&gt;
+	&lt;setting key=&quot;Internet.LastMetadataCheck&quot;&gt;16483&lt;/setting&gt;
+	&lt;setting key=&quot;Library.LastFile&quot;&gt;&lt;/setting&gt;
+	&lt;setting key=&quot;Library.LastGroupPath&quot;&gt;Keyboard Classics&lt;/setting&gt;
+	&lt;setting key=&quot;System.LastScreen&quot;&gt;title&lt;/setting&gt;
+	&lt;setting key=&quot;System.Random&quot;&gt;be7f5194-2f12-4478-9846-80428fb06554&lt;/setting&gt;
+	&lt;setting key=&quot;System.TutorialPresented&quot;&gt;1&lt;/setting&gt;
+	&lt;setting key=&quot;System.UnlockKey&quot;&gt;Synthkeysia77u/PD94b[나머지 문자열은 잘림]&quot;;과(와) 유사한 지역화된 문자열을 찾습니다.
+</summary>
+</member>
+<member name="P:DrCode.My.Resources.Resources.Synthesia">
+<summary>
+  System.Byte[] 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member>
+<member name="M:DrCode.Synthesia.modINI.Wini(System.String,System.String)">
+ <summary>
+ Helping Code with easily and simply from Writeini().
+ </summary>
+</member>
+<member name="M:DrCode.Synthesia.modINI.Rini(System.String)">
+ <summary>
+ Helping Code with easily and simply from Readini().
+ </summary>
+</member>
+<member name="M:DrCode.Synthesia.DrCode.SetCrack(System.String,System.Boolean)">
+ <summary>
+ Cracking Synthesia with arg. Reading Settings from Synthesia_X.
+ </summary>
+</member>
+<member name="M:DrCode.Synthesia.DrCode.EditHex(System.String,System.String,System.String,System.String,System.Boolean)">
+ <summary>
+ Editing Hex with BinaryReader, BinaryWriter. Replacing HEX.
+ </summary>
+</member>
+</members>
+</doc>

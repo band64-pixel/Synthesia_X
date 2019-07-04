@@ -1,0 +1,11 @@
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\bin\Debug\DrCode.dll.config
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\bin\Debug\DrCode.dll
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\bin\Debug\DrCode.pdb
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\bin\Debug\DrCode.xml
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\obj\Debug\DrCode.Resources.resources
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\obj\Debug\DrCode.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\obj\Debug\DrCode.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\obj\Debug\DrCode.dll
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\obj\Debug\DrCode.xml
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\obj\Debug\DrCode.pdb
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\DrCode\obj\Debug\DrCode.vbprojAssemblyReference.cache

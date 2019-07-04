@@ -1,0 +1,12 @@
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\bin\Debug\Synthesia_X.exe.config
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\bin\Debug\Synthesia_X.exe
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\bin\Debug\Synthesia_X.pdb
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\bin\Debug\Synthesia_X.xml
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_X.Resources.resources
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_.vbproj.GenerateResource.cache
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_.vbproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_.vbproj.CopyComplete
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_X.exe
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_X.xml
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_X.pdb
+C:\Users\SAMSUNG\documents\visual studio 2017\Projects\Synthesia_\Synthesia_\obj\Debug\Synthesia_.vbprojAssemblyReference.cache

@@ -1,0 +1,19 @@
+﻿---DrCode Engine Project in Synthesia_X---
+1.0.0.0: InPath (Synthesia Crack Program & Synthesia_X in Applcation Path)
+1.0.0.1: InPr (Synthesia Crack Program in Synthesia_X)
+1.4.0.6: DrCode: RSET (DrCode Engine cracks Synthesia, DrCode by Band64 in Synthesia_X)
+
+-What is DrCode?
+DrCode Engine cracks Synthesia and includes in Synthesia_X.
+DrCode made by Band64. Current DrCode's Version is 1.0.0.0!
+
+-DrCode's Algorithm?
+
+=Algorithm #1 (Name: DrCode_RSet, Replace settings.xml)
+using User\Appdata\Roaming\Synthesia\settings.xml
+using C:\Program Files (x86)\Synthesia\Synthesia.exe
+
+
+
+-Code Tip!
+Convert.ToBoolean("True") = True

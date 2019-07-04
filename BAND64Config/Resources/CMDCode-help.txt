@@ -1,0 +1,10 @@
+﻿CMDCode-help V1.4.0.8 (2019-02-04 By BAND64)
+
+/def - Default Code.
+/help - Showing How To Use Command. It shows the Commands to you.
+/? - Same as /help
+/rtd /read - Set CMDCode to Default.
+/rtd /set - Set All to Default.
+/set /bak - Backup the Setting File.
+/set /restore - Restore the Setting File.
+/set /tmp - Remove the Tempoary Files. It may fix some errors.
