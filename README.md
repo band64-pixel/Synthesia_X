@@ -1,6 +1,6 @@
 # Synthesia_X Project
 
-![OverHits](https://github.com/band64-pixel/Synthesia_X/blob/master/Synthesia_/Resources/Synthesia_X.png)
+![Synthesia_X](https://github.com/band64-pixel/Synthesia_X/blob/master/Synthesia_/Resources/Synthesia_X.png)
 #### Made By band64-pixel in PuryStudio.
 
 ##### "We will never lose to ENEMIES!" - band64-pixel
